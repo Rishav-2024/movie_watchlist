@@ -139,4 +139,4 @@ node server.js
 - Add new movies using the form provided.
 - Edit or delete existing movies from the list.
 - Mark movies as watched or unwatched.
-- Rate and review movies by clicking the "Add Rating & Review" button.
+- Rate and review movies by clicking the "Edit" button.
